@@ -4,7 +4,7 @@
 
 project = 'CC 6L'
 copyright = '2025, BSIT'
-author = 'Eldo kimverlie' Espinosa Luwela'
+author = 'Eldo kimverlie' Espinosa Luwela'Chicano
 
 release = '0.1'
 version = '0.1.0'
