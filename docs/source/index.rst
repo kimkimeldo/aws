@@ -1,10 +1,8 @@
 Welcome to clouds Practitioner!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**: Cloud Practitioner is a role-based learning experience designed to equip you with practical AWS Cloud skills. Featuring 12 FREE hands-on assignments that guide you through building real-world solutions, this course is enriched by instructional videos, architecture diagrams, knowledge quizzes, and a competitive tournament mode. By exploring fundamental cloud concepts such as compute, networking, security, and storage, this course prepares you for certification and lays the foundation for advanced cloud concepts. 
+.
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
