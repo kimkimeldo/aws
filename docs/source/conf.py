@@ -5,9 +5,6 @@
 project = 'CC 6L'
 copyright = '2025, BSIT'
 author = 'Eldo kimverlie'
-         'Espinosa Luwela'
-         'Darnel dave Chicano'
-         'Mayvill joy Pampanga'
 
 release = '0.1'
 version = '0.1.0'
